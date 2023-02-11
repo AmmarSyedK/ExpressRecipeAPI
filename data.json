@@ -1,0 +1,17 @@
+{  
+    "recipes": [
+    {
+    "name of the recipe": "Lasagna",
+    "image link of the recipe": "https://www.google.com/search?q=lasagna&rlz=1C1GCEA_enUS832US832&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiY5J6Z5M_iAhXOyDgGHQzlAQQ_AUIEigB&biw=1366&bih=657#imgrc=_",
+    "ingredients": "1 lb. ground beef, 1 chopped onion, 3 cloves garlic, minced, 1 (28 oz.) can crushed tomatoes, 1 (6 oz.) can tomato paste, 2 tbsp. sugar, 1 1/2 tsp. dried basil leaves, 2 tbsp. fennel seeds, Salt and pepper, to taste, 12 lasagna noodles, cooked, 1 (15 oz.) container ricotta cheese, 1 egg, 2 cups shredded mozzarella cheese, 1/2 cup grated Parmesan cheese.",
+    "instructions": "1. Preheat oven to 375°F (190°C).\n2. In a large skillet, cook beef, onion, and garlic over medium heat until beef is brown; drain.\n3. Stir in crushed tomatoes, tomato paste, sugar, basil, fennel seeds, salt, and pepper.\n4. Spread 1/2 cup meat sauce in an ungreased 13x9 inch baking dish.\n5. Arrange 3 noodles over sauce; spread with one-third of the ricotta cheese and one-third of the mozzarella cheese.\n6. Repeat layers of meat sauce, noodles, ricotta cheese, and mozzarella cheese twice.\n7. Sprinkle with Parmesan cheese.\n8. Cover and bake for 25 minutes.\n9. Uncover and bake until cheese is melted, about 10 minutes.",
+    "duration": "60 minutes"
+    },
+    {
+    "name of the recipe": "Hamburger",
+    "image link of the recipe": "https://www.google.com/search?q=hamburger&rlz=1C1GCEA_enUS832US832&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiY5J6Z5M_iAhXOyDgGHQzlAQQ_AUIEigB&biw=1366&bih=657#imgrc=_",
+    "ingredients": "1 lb. ground beef, 1 tsp. salt, 1/2 tsp. black pepper, 4 slices cheddar cheese, 4 hamburger buns, Lettuce, tomato, and condiments of your choice.",
+    "instructions": "1. In a large bowl, mix together the ground beef, salt, and pepper.\n2. Divide the mixture into 4 equal parts and shape each into a patty.\n3. Heat a large skillet over medium-high heat. Cook the patties until browned on both sides and cooked to your desired level of doneness.\n4. Top each patty with a slice of cheese during the last minute of cooking.\n5. Toast the hamburger buns.\n6. Assemble the burgers with lettuce, tomato, and condiments of your choice.",
+    "duration": "30 minutes"
+    }
+]
