@@ -2,16 +2,88 @@
     "recipes": [
     {
     "name of the recipe": "Lasagna",
-    "image link of the recipe": "https://www.google.com/search?q=lasagna&rlz=1C1GCEA_enUS832US832&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiY5J6Z5M_iAhXOyDgGHQzlAQQ_AUIEigB&biw=1366&bih=657#imgrc=_",
+    "image link of the recipe": "https://www.modernhoney.com/wp-content/uploads/2019/08/Classic-Lasagna-14-scaled.jpg",
     "ingredients": "1 lb. ground beef, 1 chopped onion, 3 cloves garlic, minced, 1 (28 oz.) can crushed tomatoes, 1 (6 oz.) can tomato paste, 2 tbsp. sugar, 1 1/2 tsp. dried basil leaves, 2 tbsp. fennel seeds, Salt and pepper, to taste, 12 lasagna noodles, cooked, 1 (15 oz.) container ricotta cheese, 1 egg, 2 cups shredded mozzarella cheese, 1/2 cup grated Parmesan cheese.",
     "instructions": "1. Preheat oven to 375°F (190°C).\n2. In a large skillet, cook beef, onion, and garlic over medium heat until beef is brown; drain.\n3. Stir in crushed tomatoes, tomato paste, sugar, basil, fennel seeds, salt, and pepper.\n4. Spread 1/2 cup meat sauce in an ungreased 13x9 inch baking dish.\n5. Arrange 3 noodles over sauce; spread with one-third of the ricotta cheese and one-third of the mozzarella cheese.\n6. Repeat layers of meat sauce, noodles, ricotta cheese, and mozzarella cheese twice.\n7. Sprinkle with Parmesan cheese.\n8. Cover and bake for 25 minutes.\n9. Uncover and bake until cheese is melted, about 10 minutes.",
     "duration": "60 minutes"
     },
     {
     "name of the recipe": "Hamburger",
-    "image link of the recipe": "https://www.google.com/search?q=hamburger&rlz=1C1GCEA_enUS832US832&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiY5J6Z5M_iAhXOyDgGHQzlAQQ_AUIEigB&biw=1366&bih=657#imgrc=_",
+    "image link of the recipe": "https://cdn.britannica.com/31/122031-050-F8FCA663/Hamburger-cheeseburger.jpg",
     "ingredients": "1 lb. ground beef, 1 tsp. salt, 1/2 tsp. black pepper, 4 slices cheddar cheese, 4 hamburger buns, Lettuce, tomato, and condiments of your choice.",
     "instructions": "1. In a large bowl, mix together the ground beef, salt, and pepper.\n2. Divide the mixture into 4 equal parts and shape each into a patty.\n3. Heat a large skillet over medium-high heat. Cook the patties until browned on both sides and cooked to your desired level of doneness.\n4. Top each patty with a slice of cheese during the last minute of cooking.\n5. Toast the hamburger buns.\n6. Assemble the burgers with lettuce, tomato, and condiments of your choice.",
     "duration": "30 minutes"
+    },
+    {
+        "name of the recipe": "Chicken Alfredo",
+        "image link of the recipe": "https://hips.hearstapps.com/hmg-prod/images/delish-221130-perfect-chicken-alfredo-0683-eb-1670449995.jpg",
+        "ingredients": "8 oz. fettuccine pasta, 1 lb. boneless skinless chicken breasts, diced, 4 tbsp. butter, 2 cloves garlic, minced, 1 cup heavy cream, 1/2 cup grated Parmesan cheese, Salt and pepper, to taste.",
+        "instructions": "1. Cook the pasta according to package directions.\n2. In a large skillet, cook chicken over medium heat until browned and cooked through. Remove from skillet and set aside.\n3. In the same skillet, melt the butter over medium heat. Add the garlic and cook until fragrant.\n4. Stir in the heavy cream and Parmesan cheese and cook until the sauce is heated through.\n5. Return the chicken to the skillet and season with salt and pepper to taste.\n6. Serve the chicken mixture over the cooked pasta.",
+        "duration": "30 minutes"
+    },
+    {
+        "name of the recipe": "Pancakes",
+        "image link of the recipe": "https://assets.epicurious.com/photos/605ce315b1622a8602ec4bb0/4:3/w_3428,h_2571,c_limit/HomemadePancakeMix_RECIPE_v1_032521_11975_VOG_final.jpg",
+        "ingredients": "1 cup all-purpose flour, 2 tbsp. sugar, 2 tsp. baking powder, 1/2 tsp. salt, 1 cup milk, 1 egg, 2 tbsp. melted butter, 1 tsp. vanilla extract",
+        "instructions": "1. In a large bowl, whisk together the flour, sugar, baking powder, and salt.\n2. In a separate bowl, whisk together the milk, egg, melted butter, and vanilla extract.\n3. Add the wet ingredients to the dry ingredients and mix until just combined (the batter will still be lumpy).\n4. Heat a large non-stick skillet over medium heat. Using a 1/4 cup measure, scoop the batter onto the skillet.\n5. Cook until small bubbles form on the surface of the pancakes and the edges begin to look set, about 2-3 minutes. Flip the pancakes and cook until the other side is golden brown, about 2 minutes more.\n6. Serve with syrup and butter.",
+        "duration": "20 minutes"
+    },
+    {
+        "name of the recipe": "Spaghetti Carbonara",
+        "image link of the recipe": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-articleLarge-v2.jpg",
+        "ingredients": "1 lb. spaghetti, 4 large eggs, 1 cup grated Parmesan cheese, 1 cup pancetta or bacon, diced, 4 cloves garlic, minced, Salt and pepper, to taste",
+        "instructions": "1. Cook the spaghetti according to package directions.\n2. In a large bowl, whisk together the eggs and Parmesan cheese.\n3. In a large skillet, cook the pancetta over medium heat until crispy. Add the garlic and cook until fragrant.\n4. Drain the spaghetti and add it to the skillet with the pancetta mixture.\n5. Remove the skillet from heat and add the egg and Parmesan mixture, stirring until the spaghetti is coated.\n6. Season with salt and pepper to taste. Serve immediately.",
+        "duration": "20 minutes"
+    },
+    {
+        "name of the recipe": "Stir-Fry",
+        "image link of the recipe": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2021/05/Chicken-Stir-Fry-main-1.jpg",
+        "ingredients": "1 lb. boneless skinless chicken breast, sliced, 2 cups vegetables (such as broccoli, bell peppers, and carrots), sliced, 2 tbsp. oil, 3 cloves garlic, minced, 2 tbsp. soy sauce, 1 tbsp. cornstarch, 2 tbsp. water",
+        "instructions": "1. In a large skillet or wok, heat the oil over high heat. Add the chicken and stir-fry until browned and cooked through. Remove from skillet and set aside.\n2. In the same skillet, stir-fry the vegetables until tender. Remove from skillet and set aside.\n3. In the same skillet, add the garlic and stir-fry until fragrant.\n4. In a small bowl, whisk together the soy sauce, cornstarch, and water.\n5. Return the chicken and vegetables to the skillet. Stir in the soy sauce mixture and cook until the sauce has thickened, about 2-3 minutes.\n6. Serve over rice.",
+        "duration": "20 minutes"
+    },
+    {
+        "name of the recipe": "Beef Stroganoff",
+        "image link of the recipe": "https://images-gmi-pmc.edge-generalmills.com/e8b4f392-d17e-45dc-b142-1effc9a52db5.jpg",
+        "ingredients": "1 lb. beef sirloin, sliced, 2 cups mushrooms, sliced, 1 onion, chopped, 2 cloves garlic, minced, 2 tbsp. butter, 2 tbsp. flour, 1 cup beef broth, 1 cup sour cream, Salt and pepper, to taste",
+        "instructions": "1. In a large skillet, brown the beef over medium heat. Remove from skillet and set aside.\n2. In the same skillet, sauté the mushrooms, onion, and garlic in the butter until tender.\n3. Stir in the flour and cook for 2 minutes. Gradually add the beef broth, stirring until smooth.\n4. Return the beef to the skillet and bring to a simmer. Reduce heat to low and stir in the sour cream.\n5. Season with salt and pepper to taste. Serve over noodles.",
+        "duration": "30 minutes"
+    },
+    {
+        "name of the recipe": "Potato Salad",
+        "image link of the recipe": "https://hips.hearstapps.com/hmg-prod/images/190411-potato-salad-horizontal-1-1555688422.png?crop=1.00xw:0.752xh;0,0.111xh&resize=1200:*",
+        "ingredients": "6 medium potatoes, boiled and diced, 1/2 cup mayonnaise, 1/4 cup sour cream, 1 tbsp. dijon mustard, 2 green onions, chopped, Salt and pepper, to taste",
+        "instructions": "1. In a large bowl, combine the potatoes, mayonnaise, sour cream, dijon mustard, and green onions.\n2. Stir until the potatoes are coated.\n3. Season with salt and pepper to taste. Serve chilled.",
+        "duration": "15 minutes"
+    },
+    {
+        "name of the recipe": "Tomato Soup",
+        "image link of the recipe": "https://i.ytimg.com/vi/X_lZ49spG5A/maxresdefault.jpg",
+        "ingredients": "1 tbsp. oil, 1 onion, chopped, 2 cloves garlic, minced, 2 cans diced tomatoes, 2 cups chicken broth, 1 tsp. sugar, Salt and pepper, to taste",
+        "instructions": "1. In a large pot, heat the oil over medium heat. Add the onion and garlic and cook until tender.\n2. Add the diced tomatoes, chicken broth, and sugar. Bring to a simmer and cook for 10 minutes.\n3. Using an immersion blender, blend the soup until smooth.\n4. Season with salt and pepper to taste. Serve hot.",
+        "duration": "20 minutes"
+    },
+    {
+        "name of the recipe": "Grilled Cheese",
+        "image link of the recipe": "https://www.thespruceeats.com/thmb/_JQYaKPYoRATNHXLhqN3OqvxhE4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/garlic-bread-grilled-cheese-4687223-hero-03-d4bb5c01c2894945a80ceb63062555c4.jpg",
+        "ingredients": "2 slices of bread, 2 slices of cheddar cheese, 2 tbsp. butter",
+        "instructions": "1. Preheat a non-stick skillet over medium heat.\n2. Place the cheese between the two slices of bread to make a sandwich.\n3. Spread the butter on the outside of the sandwich.\n4. Place the sandwich in the skillet and cook until the bread is golden brown and the cheese is melted, about 3-4 minutes per side.\n5. Serve hot.",
+        "duration": "10 minutes"
+    },
+    {
+        "name of the recipe": "Fried Rice",
+        "image link of the recipe": "https://hips.hearstapps.com/hmg-prod/images/delish-fried-rice-020-2x1-1675707402.jpg?crop=0.8888888888888888xw:1xh;center,top",
+        "ingredients": "2 cups cooked rice, 2 tbsp. oil, 1 onion, chopped, 1 cup frozen vegetables, 2 eggs, beaten, 2 tbsp. soy sauce, Salt and pepper, to taste",
+        "instructions": "1. In a large wok or skillet, heat the oil over medium heat.\n2. Add the onion and cook until tender.\n3. Stir in the frozen vegetables and cook for 3 minutes.\n4. Push the vegetables to one side of the wok and add the beaten eggs to the other side. Scramble the eggs until cooked.\n5. Stir in the rice and soy sauce. Cook for 2-3 minutes.\n6. Season with salt and pepper to taste. Serve hot.",
+        "duration": "20 minutes"
+    },
+    {
+        "name of the recipe": "Spaghetti Bolognese",
+        "image link of the recipe": "https://images.eatsmarter.de/sites/default/files/styles/max_size/public/spaghetti-bolognese-original-59303.jpg",
+        "ingredients": "1 lb. spaghetti pasta, 1 lb. ground beef, 1 onion, chopped, 2 cloves garlic, minced, 1 can diced tomatoes, 1 tbsp. tomato paste, 1 tsp. dried basil, Salt and pepper, to taste",
+        "instructions": "1. Cook the pasta according to package instructions. Drain and set aside.\n2. In a large pot, brown the ground beef over medium heat. Add the onion and garlic and cook until tender.\n3. Stir in the diced tomatoes, tomato paste, and basil. Bring to a simmer.\n4. Reduce heat to low and let the sauce simmer for 15 minutes.\n5. Season with salt and pepper to taste. Serve over the cooked spaghetti.",
+        "duration": "45 minutes"
     }
-]
+
+    ]
+}
