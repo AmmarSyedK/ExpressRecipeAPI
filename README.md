@@ -11,7 +11,7 @@ GET /recipes: Returns a list of all the recipes.
 The API is deployed on Vercel and is accessible at https://recipe-api-five.vercel.app/recipes.
 
 # API Design
-The API was built using Express.js, a popular Node.js web framework. The API uses a RESTful architecture. The API stores the recipe data in memory, which means that the data will not persist after the API is restarted.
+The API was built using Express.js, a popular Node.js web framework. The API uses a RESTful architecture.
 
 # API Documentation
 The API uses JSON as its data format, and the endpoints accept and return JSON data. The API uses standard HTTP response codes to indicate the success or failure of an API request. The API documentation provides more detailed information on the request and response formats for each endpoint.
