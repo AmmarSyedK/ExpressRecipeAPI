@@ -1,9 +1,9 @@
 [{
     "name": "Lasagna",
     "imageLink": "https://www.modernhoney.com/wp-content/uploads/2019/08/Classic-Lasagna-14-scaled.jpg",
-    "ingredientsRecipeRecipe": "1 lb. ground beef, 1 chopped onion, 3 cloves garlic, minced, 1 (28 oz.) can crushed tomatoes, 1 (6 oz.) can tomato paste, 2 tbsp. sugar, 1 1/2 tsp. dried basil leaves, 2 tbsp. fennel seeds, Salt and pepper, to taste, 12 lasagna noodles, cooked, 1 (15 oz.) container ricotta cheese, 1 egg, 2 cups shredded mozzarella cheese, 1/2 cup grated Parmesan cheese.",
-    "instructionsRecipeRecipe": "1. Preheat oven to 375°F (190°C). 2. In a large skillet, cook beef, onion, and garlic over medium heat until beef is brown; drain. 3. Stir in crushed tomatoes, tomato paste, sugar, basil, fennel seeds, salt, and pepper. 4. Spread 1/2 cup meat sauce in an ungreased 13x9 inch baking dish. 5. Arrange 3 noodles over sauce; spread with one-third of the ricotta cheese and one-third of the mozzarella cheese. 6. Repeat layers of meat sauce, noodles, ricotta cheese, and mozzarella cheese twice. 7. Sprinkle with Parmesan cheese. 8. Cover and bake for 25 minutes. 9. Uncover and bake until cheese is melted, about 10 minutes.",
-    "durationRecipeRecipe": "60 minutes"
+    "ingredientsRecipe": "1 lb. ground beef, 1 chopped onion, 3 cloves garlic, minced, 1 (28 oz.) can crushed tomatoes, 1 (6 oz.) can tomato paste, 2 tbsp. sugar, 1 1/2 tsp. dried basil leaves, 2 tbsp. fennel seeds, Salt and pepper, to taste, 12 lasagna noodles, cooked, 1 (15 oz.) container ricotta cheese, 1 egg, 2 cups shredded mozzarella cheese, 1/2 cup grated Parmesan cheese.",
+    "instructionsRecipe": "1. Preheat oven to 375°F (190°C). 2. In a large skillet, cook beef, onion, and garlic over medium heat until beef is brown; drain. 3. Stir in crushed tomatoes, tomato paste, sugar, basil, fennel seeds, salt, and pepper. 4. Spread 1/2 cup meat sauce in an ungreased 13x9 inch baking dish. 5. Arrange 3 noodles over sauce; spread with one-third of the ricotta cheese and one-third of the mozzarella cheese. 6. Repeat layers of meat sauce, noodles, ricotta cheese, and mozzarella cheese twice. 7. Sprinkle with Parmesan cheese. 8. Cover and bake for 25 minutes. 9. Uncover and bake until cheese is melted, about 10 minutes.",
+    "durationRecipe": "60 minutes"
 },
 {
     "name": "Hamburger",
