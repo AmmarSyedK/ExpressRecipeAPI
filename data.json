@@ -1,11 +1,13 @@
 [{
+    "id": 1,
     "name": "Lasagna",
     "imageLink": "https://www.modernhoney.com/wp-content/uploads/2019/08/Classic-Lasagna-14-scaled.jpg",
-    "ingredientsRecipe": "1 lb. ground beef, 1 chopped onion, 3 cloves garlic, minced, 1 (28 oz.) can crushed tomatoes, 1 (6 oz.) can tomato paste, 2 tbsp. sugar, 1 1/2 tsp. dried basil leaves, 2 tbsp. fennel seeds, Salt and pepper, to taste, 12 lasagna noodles, cooked, 1 (15 oz.) container ricotta cheese, 1 egg, 2 cups shredded mozzarella cheese, 1/2 cup grated Parmesan cheese.",
-    "instructionsRecipe": "1. Preheat oven to 375°F (190°C). 2. In a large skillet, cook beef, onion, and garlic over medium heat until beef is brown; drain. 3. Stir in crushed tomatoes, tomato paste, sugar, basil, fennel seeds, salt, and pepper. 4. Spread 1/2 cup meat sauce in an ungreased 13x9 inch baking dish. 5. Arrange 3 noodles over sauce; spread with one-third of the ricotta cheese and one-third of the mozzarella cheese. 6. Repeat layers of meat sauce, noodles, ricotta cheese, and mozzarella cheese twice. 7. Sprinkle with Parmesan cheese. 8. Cover and bake for 25 minutes. 9. Uncover and bake until cheese is melted, about 10 minutes.",
-    "durationRecipe": "60 minutes"
+    "ingredientsRecipeRecipe": "1 lb. ground beef, 1 chopped onion, 3 cloves garlic, minced, 1 (28 oz.) can crushed tomatoes, 1 (6 oz.) can tomato paste, 2 tbsp. sugar, 1 1/2 tsp. dried basil leaves, 2 tbsp. fennel seeds, Salt and pepper, to taste, 12 lasagna noodles, cooked, 1 (15 oz.) container ricotta cheese, 1 egg, 2 cups shredded mozzarella cheese, 1/2 cup grated Parmesan cheese.",
+    "instructionsRecipeRecipe": "1. Preheat oven to 375°F (190°C). 2. In a large skillet, cook beef, onion, and garlic over medium heat until beef is brown; drain. 3. Stir in crushed tomatoes, tomato paste, sugar, basil, fennel seeds, salt, and pepper. 4. Spread 1/2 cup meat sauce in an ungreased 13x9 inch baking dish. 5. Arrange 3 noodles over sauce; spread with one-third of the ricotta cheese and one-third of the mozzarella cheese. 6. Repeat layers of meat sauce, noodles, ricotta cheese, and mozzarella cheese twice. 7. Sprinkle with Parmesan cheese. 8. Cover and bake for 25 minutes. 9. Uncover and bake until cheese is melted, about 10 minutes.",
+    "durationRecipeRecipe": "60 minutes"
 },
 {
+    "id": 2,
     "name": "Hamburger",
     "imageLink": "https://cdn.britannica.com/31/122031-050-F8FCA663/Hamburger-cheeseburger.jpg",
     "ingredientsRecipe": "1 lb. ground beef, 1 tsp. salt, 1/2 tsp. black pepper, 4 slices cheddar cheese, 4 hamburger buns, Lettuce, tomato, and condiments of your choice.",
@@ -13,6 +15,7 @@
     "durationRecipe": "30 minutes"
 },
 {
+    "id": 3,
     "name": "Chicken Alfredo",
     "imageLink": "https://hips.hearstapps.com/hmg-prod/images/delish-221130-perfect-chicken-alfredo-0683-eb-1670449995.jpg",
     "ingredientsRecipe": "8 oz. fettuccine pasta, 1 lb. boneless skinless chicken breasts, diced, 4 tbsp. butter, 2 cloves garlic, minced, 1 cup heavy cream, 1/2 cup grated Parmesan cheese, Salt and pepper, to taste.",
@@ -20,6 +23,7 @@
     "durationRecipe": "30 minutes"
 },
 {
+    "id": 4,
     "name": "Pancakes",
     "imageLink": "https://assets.epicurious.com/photos/605ce315b1622a8602ec4bb0/4:3/w_3428,h_2571,c_limit/HomemadePancakeMix_RECIPE_v1_032521_11975_VOG_final.jpg",
     "ingredientsRecipe": "1 cup all-purpose flour, 2 tbsp. sugar, 2 tsp. baking powder, 1/2 tsp. salt, 1 cup milk, 1 egg, 2 tbsp. melted butter, 1 tsp. vanilla extract",
@@ -27,6 +31,7 @@
     "durationRecipe": "20 minutes"
 },
 {
+    "id": 5,
     "name": "Spaghetti Carbonara",
     "imageLink": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-articleLarge-v2.jpg",
     "ingredientsRecipe": "1 lb. spaghetti, 4 large eggs, 1 cup grated Parmesan cheese, 1 cup pancetta or bacon, diced, 4 cloves garlic, minced, Salt and pepper, to taste",
@@ -34,6 +39,7 @@
     "durationRecipe": "20 minutes"
 },
 {
+    "id": 6,
     "name": "Stir-Fry",
     "imageLink": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2021/05/Chicken-Stir-Fry-main-1.jpg",
     "ingredientsRecipe": "1 lb. boneless skinless chicken breast, sliced, 2 cups vegetables (such as broccoli, bell peppers, and carrots), sliced, 2 tbsp. oil, 3 cloves garlic, minced, 2 tbsp. soy sauce, 1 tbsp. cornstarch, 2 tbsp. water",
@@ -41,6 +47,7 @@
     "durationRecipe": "20 minutes"
 },
 {
+    "id": 7,
     "name": "Beef Stroganoff",
     "imageLink": "https://images-gmi-pmc.edge-generalmills.com/e8b4f392-d17e-45dc-b142-1effc9a52db5.jpg",
     "ingredientsRecipe": "1 lb. beef sirloin, sliced, 2 cups mushrooms, sliced, 1 onion, chopped, 2 cloves garlic, minced, 2 tbsp. butter, 2 tbsp. flour, 1 cup beef broth, 1 cup sour cream, Salt and pepper, to taste",
@@ -48,6 +55,7 @@
     "durationRecipe": "30 minutes"
 },
 {
+    "id": 8,
     "name": "Potato Salad",
     "imageLink": "https://hips.hearstapps.com/hmg-prod/images/190411-potato-salad-horizontal-1-1555688422.png?crop=1.00xw:0.752xh;0,0.111xh&resize=1200:*",
     "ingredientsRecipe": "6 medium potatoes, boiled and diced, 1/2 cup mayonnaise, 1/4 cup sour cream, 1 tbsp. dijon mustard, 2 green onions, chopped, Salt and pepper, to taste",
@@ -55,6 +63,7 @@
     "durationRecipe": "15 minutes"
 },
 {
+    "id": 9,
     "name": "Tomato Soup",
     "imageLink": "https://i.ytimg.com/vi/X_lZ49spG5A/maxresdefault.jpg",
     "ingredientsRecipe": "1 tbsp. oil, 1 onion, chopped, 2 cloves garlic, minced, 2 cans diced tomatoes, 2 cups chicken broth, 1 tsp. sugar, Salt and pepper, to taste",
@@ -62,6 +71,7 @@
     "durationRecipe": "20 minutes"
 },
 {
+    "id": 10,
     "name": "Grilled Cheese",
     "imageLink": "https://www.thespruceeats.com/thmb/_JQYaKPYoRATNHXLhqN3OqvxhE4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/garlic-bread-grilled-cheese-4687223-hero-03-d4bb5c01c2894945a80ceb63062555c4.jpg",
     "ingredientsRecipe": "2 slices of bread, 2 slices of cheddar cheese, 2 tbsp. butter",
@@ -69,6 +79,7 @@
     "durationRecipe": "10 minutes"
 },
 {
+    "id": 11,
     "name": "Fried Rice",
     "imageLink": "https://hips.hearstapps.com/hmg-prod/images/delish-fried-rice-020-2x1-1675707402.jpg?crop=0.8888888888888888xw:1xh;center,top",
     "ingredientsRecipe": "2 cups cooked rice, 2 tbsp. oil, 1 onion, chopped, 1 cup frozen vegetables, 2 eggs, beaten, 2 tbsp. soy sauce, Salt and pepper, to taste",
@@ -76,6 +87,7 @@
     "durationRecipe": "20 minutes"
 },
 {
+    "id": 12,
     "name": "Spaghetti Bolognese",
     "imageLink": "https://images.eatsmarter.de/sites/default/files/styles/max_size/public/spaghetti-bolognese-original-59303.jpg",
     "ingredientsRecipe": "1 lb. spaghetti pasta, 1 lb. ground beef, 1 onion, chopped, 2 cloves garlic, minced, 1 can diced tomatoes, 1 tbsp. tomato paste, 1 tsp. dried basil, Salt and pepper, to taste",
